@@ -1,0 +1,9 @@
+# Ignore artifacts:
+.vscode
+.DS_Store
+.idea
+node_modules
+build
+/coverage
+.azuredevops
+*.md
